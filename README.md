@@ -5,10 +5,15 @@ Priscilla Abigail Munthe - 2602109883
 ## To run
 
 Compile the code:
-`gcc -o main main.c -pthread`
+```
+gcc -o main main.c -pthread
+```
 
 Run the program:
-`./main`
+```
+./main
+```
 
 The result will look like:
+
 ![Screenshot](ss.png)
